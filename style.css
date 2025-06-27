@@ -1,49 +1,49 @@
 body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-}
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
 
-header {
-  background: #e53935;
-  color: white;
-  padding: 20px;
-  text-align: center;
-}
+  header {
+    background: #e53935;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
 
-.logo {
-  width: 60px;
-  height: auto;
-}
+  .logo {
+    width: 60px;
+    height: auto;
+  }
 
-nav a {
-  color: white;
-  margin: 0 10px;
-  text-decoration: none;
-}
+  nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+  }
 
-.hero {
-  background: #ffe082;
-  padding: 50px;
-  text-align: center;
-}
+  .hero {
+    background: #ffe082;
+    padding: 50px;
+    text-align: center;
+  }
 
-.btn {
-  background: #e53935;
-  color: white;
-  padding: 10px 20px;
-  text-decoration: none;
-  border-radius: 5px;
-}
+  .btn {
+    background: #e53935;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
 
-.services {
-  padding: 20px;
-  background: #f5f5f5;
-}
+  .services {
+    padding: 20px;
+    background: #f5f5f5;
+  }
 
-footer {
-  background: #212121;
-  color: white;
-  text-align: center;
-  padding: 10px;
-}
+  footer {
+    background: #212121;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
